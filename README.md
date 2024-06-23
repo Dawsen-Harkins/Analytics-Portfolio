@@ -40,6 +40,6 @@ Here, you will find a collection of my data and business analytics projects. Eac
 
 ## Contact
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dawsenh/) or reach out via [email](mailto:your_email@example.com) if you have any questions or would like to collaborate on a project.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dawsenh/) or reach out via [email](mailto:Dawsen0707@gmail.com) if you have any questions or would like to collaborate on a project.
 
 Thank you for visiting my portfolio! Your feedback and suggestions are always welcome.
