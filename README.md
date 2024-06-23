@@ -35,13 +35,11 @@ Here, you will find a collection of my data and business analytics projects. Eac
 ## Skills
 
 - **Data Analysis:** Proficient in analyzing and interpreting complex datasets to generate actionable insights.
-- **Programming:** Experienced in Python, R, and SQL for data manipulation and analysis.
 - **Data Visualization:** Skilled in creating intuitive visualizations using Tableau, Power BI, and Matplotlib.
 - **Statistical Analysis:** Knowledgeable in statistical methods and their application in business contexts.
-- **Machine Learning:** Familiar with machine learning algorithms and their use in predictive modeling.
 
 ## Contact
 
-Feel free to connect with me on [LinkedIn](your_linkedin_profile) or reach out via [email](mailto:your_email@example.com) if you have any questions or would like to collaborate on a project.
+Feel free to connect with me on [LinkedIn](linkedin.com/in/dawsenh) or reach out via [email](mailto:your_email@example.com) if you have any questions or would like to collaborate on a project.
 
 Thank you for visiting my portfolio! Your feedback and suggestions are always welcome.
