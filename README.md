@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to my GitHub portfolio! I am a passionate and self-motivated data and business analyst dedicated to transforming data into actionable insights. This repository showcases my projects and skills in data analysis, visualization, and business analytics.
+Welcome to my GitHub portfolio! I am passionate and self-motivated about data/business analysis and dedicated to transforming data into actionable insights. This repository showcases my projects and skills in data analysis, visualization, and business analytics.
 
 ## About Me
 
