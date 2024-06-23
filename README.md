@@ -36,4 +36,4 @@ Here, you will find a collection of my data and business analytics projects. Eac
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dawsenh/) or reach out via email here >> [Dawsen0707@gmail.com](mailto:Dawsen0707@gmail.com) if you have any questions or would like to collaborate on a project.
 
-Thank you for visiting my portfolio! Your feedback and suggestions are always welcome.
+Thank you for visiting my portfolio! Your feedback and suggestions are always welcome :)
