@@ -20,7 +20,7 @@ Here, you will find a collection of my data and business analytics projects. Eac
 ### 2. Car Sales and Recall Visualization with Cognos
 - **Description:** A project focusing on sales and recalls using visualizing techniques in Cognos to identify trends for targeted marketing strategies and product quality improvement.
 - **Skills:** Data visualization, trend identifying, insight creation.
-- **Link:** [Car Sales and Recall Visualization](link_to_project)
+- **Link:** [Car Sales and Recall Visualization](https://github.com/Dawsen-Harkins/Analytics-Portfolio/blob/main/Cognos%20Automotive%20Analysis%20Dashboard.pdf)
 
 ### 3. Financial Forecasting
 - **Description:** Time series analysis and forecasting of financial data using ARIMA models to predict future trends.
