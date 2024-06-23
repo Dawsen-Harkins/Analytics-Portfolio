@@ -23,7 +23,7 @@ Here, you will find a collection of my data and business analytics projects. Eac
 - **Link:** [Car Sales and Recall Visualization](https://github.com/Dawsen-Harkins/Analytics-Portfolio/blob/main/Cognos%20Automotive%20Analysis%20Dashboard.pdf)
 
 ### 3. Movie Rating Analysis
-- **Description:** Data visualization using Python to uncover trends in movie ratings.
+- **Description:** Conducted an in-depth movie ratings analysis using Python.
 - **Skills:** Visualization with Python (Pandas, MatPlotLib, Seaborn).
 - **Link:** [Movie Rating Analysis](https://github.com/Dawsen-Harkins/Analytics-Portfolio/blob/main/Movie%20Ratings%20Analysis.ipynb)
 
