@@ -30,7 +30,7 @@ Here, you will find a collection of my data and business analytics projects. Eac
 ## Skills
 
 - **Data Analysis:** Analyzing and interpreting complex datasets to generate actionable insights.
-- **Data Visualization:** Creating intuitive visualizations using Tableau, Cognos
+- **Data Visualization:** Creating intuitive visualizations using Tableau, Cognos, and Excel.
 
 ## Contact
 
