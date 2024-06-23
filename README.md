@@ -10,7 +10,7 @@ As a self-starter, I constantly seek opportunities to enhance my expertise in da
 
 ## Projects
 
-Here, you will find a collection of my data and business analytics projects. Each project demonstrates a unique aspect of my skill set, from data wrangling and cleaning to visualization and predictive modeling. Below are some highlights:
+Here, you will find a collection of my data and business analytics projects. Each project demonstrates a unique aspect of my skill set, from data cleaning to visualization. Below are some highlights:
 
 ### 1. Car Sales Analysis and Visualization with Excel
 - **Description:** A dashboard created using Excel to visualize sales performance across different dealers and model categories.
