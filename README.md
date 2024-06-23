@@ -22,15 +22,10 @@ Here, you will find a collection of my data and business analytics projects. Eac
 - **Skills:** Data visualization, trend identifying, insight creation.
 - **Link:** [Car Sales and Recall Visualization](https://github.com/Dawsen-Harkins/Analytics-Portfolio/blob/main/Cognos%20Automotive%20Analysis%20Dashboard.pdf)
 
-### 3. Financial Forecasting
-- **Description:** Time series analysis and forecasting of financial data using ARIMA models to predict future trends.
-- **Skills:** Time series analysis, Python (statsmodels), forecasting.
-- **Link:** [Financial Forecasting](link_to_project)
-
-### 4. A/B Testing for Marketing Campaigns
-- **Description:** Conducting A/B tests to evaluate the effectiveness of different marketing strategies and their impact on conversion rates.
-- **Skills:** A/B testing, statistical analysis, Python (scipy, pandas).
-- **Link:** [A/B Testing for Marketing Campaigns](link_to_project)
+### 3. Movie Rating Analysis
+- **Description:** Data visualization using Python to uncover trends in movie ratings.
+- **Skills:** Visualization with Python (Pandas, MatPlotLib, Seaborn).
+- **Link:** [Movie Rating Analysis](link_to_project)
 
 ## Skills
 
