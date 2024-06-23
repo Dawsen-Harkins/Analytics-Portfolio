@@ -15,7 +15,7 @@ Here, you will find a collection of my data and business analytics projects. Eac
 ### 1. Car Sales Analysis
 - **Description:** A dashboard created using Excel to visualize sales performance across different dealers and model categories.
 - **Skills:** Data visualization, Data Cleaning, exploratory data analysis (EDA).
-- **Link:** [Car Sales Analysis](link_to_project)
+- **Link:** [Car Sales Analysis](https://github.com/Dawsen-Harkins/Analytics-Portfolio/blob/main/Excel%20Car%20Sales%20Analysis%20and%20Visualization.xlsx)
 
 ### 2. Customer Segmentation
 - **Description:** A project focusing on customer segmentation using clustering techniques in Python to identify distinct customer groups for targeted marketing strategies.
