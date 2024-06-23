@@ -13,9 +13,9 @@ As a self-starter, I constantly seek opportunities to enhance my expertise in da
 Here, you will find a collection of my data and business analytics projects. Each project demonstrates a unique aspect of my skill set, from data wrangling and cleaning to visualization and predictive modeling. Below are some highlights:
 
 ### 1. Sales Analysis Dashboard
-- **Description:** An interactive dashboard created using Tableau to visualize sales performance across different regions and product categories.
-- **Skills:** Data visualization, Tableau, exploratory data analysis (EDA).
-- **Link:** [Sales Analysis Dashboard](link_to_project)
+- **Description:** A dashboard created using Excel to visualize sales performance across different dealers and model categories.
+- **Skills:** Data visualization, Data Cleaning, exploratory data analysis (EDA).
+- **Link:** [Car Sales Analysis](link_to_project)
 
 ### 2. Customer Segmentation
 - **Description:** A project focusing on customer segmentation using clustering techniques in Python to identify distinct customer groups for targeted marketing strategies.
