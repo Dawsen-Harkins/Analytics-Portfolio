@@ -25,13 +25,12 @@ Here, you will find a collection of my data and business analytics projects. Eac
 ### 3. Movie Rating Analysis
 - **Description:** Data visualization using Python to uncover trends in movie ratings.
 - **Skills:** Visualization with Python (Pandas, MatPlotLib, Seaborn).
-- **Link:** [Movie Rating Analysis](link_to_project)
+- **Link:** [Movie Rating Analysis](https://github.com/Dawsen-Harkins/Analytics-Portfolio/blob/main/Movie%20Ratings%20Analysis.ipynb)
 
 ## Skills
 
-- **Data Analysis:** Proficient in analyzing and interpreting complex datasets to generate actionable insights.
-- **Data Visualization:** Skilled in creating intuitive visualizations using Tableau, Power BI, and Matplotlib.
-- **Statistical Analysis:** Knowledgeable in statistical methods and their application in business contexts.
+- **Data Analysis:** Analyzing and interpreting complex datasets to generate actionable insights.
+- **Data Visualization:** Creating intuitive visualizations using Tableau, Cognos
 
 ## Contact
 
